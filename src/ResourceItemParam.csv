@@ -1,0 +1,8 @@
+#ResourceItemParam=RESOURCEITEM_PARAM_ST
+ID,Name,idleSfx - Idle SFX - s32,chaseSfx - Chase SFX - s32,getSfx - Get SFX - s32,getItemId - Get Item ID - s32,ResourceItemLimit - ResourceItemLimit - u8,pad1 - pad1 - dummy8,startSpeedMin - Minimum Starting Speed - f32,startSpeedMax - Maximum Starting Speed - f32,acceleration - Acceleration - f32,topSpeed - Top Speed - f32,forceGetTime - Force Get Time (s) - f32,pad2 - pad2 - dummy8
+0,,-1,-1,-1,0,0,-,5,7,3,10,5,-
+1,,300050,300051,300052,1000,6,-,3.75,6.25,5,25,10,-
+2,,300140,300141,300142,1010,7,-,3.75,6.25,5,25,10,-
+3,,300130,300131,300132,1020,0,-,3.75,6.25,5,25,10,-
+4,,310260,310261,310262,1100,2,-,7.5,12.5,10,50,10,-
+5,,310260,310261,310262,1101,2,-,7.5,12.5,10,50,10,-

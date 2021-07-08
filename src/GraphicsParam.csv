@@ -1,0 +1,3 @@
+#GraphicsParam=GRAPHICS_PARAM_ST
+ID,Name,Decal Spawn Limitation - Decal Spawn Limitation - f32,Torch FFX EmissiveIntensityScale - Torch FFX EmissiveIntensityScale - f32,Torch FFX Model EmissiveIntensityScale - Torch FFX Model EmissiveIntensityScale - u16,pad1 - pad1 - dummy8,PlainLightMutex - PlainLightMutex - f32,ClothSpeed1 - ClothSpeed1 - f32,ClothSpeed2 - ClothSpeed2 - f32,pad2 - pad2 - dummy8
+0,,0.05,10,40,-,0.6,1,1,-

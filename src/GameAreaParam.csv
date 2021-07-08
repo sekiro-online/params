@@ -1,0 +1,22 @@
+#GameAreaParam=GAME_AREA_PARAM_ST
+ID,Name,BonusSoul_single - BonusSoul_single - s32,BonusSoul_multi - BonusSoul_multi - s32,humanityPointCountFlagIdTop - humanityPointCountFlagIdTop - s32,humanityDropPoint1 - humanityDropPoint1 - s16,humanityDropPoint2 - humanityDropPoint2 - s16,humanityDropPoint3 - humanityDropPoint3 - s16,humanityDropPoint4 - humanityDropPoint4 - s16,humanityDropPoint5 - humanityDropPoint5 - s16,humanityDropPoint6 - humanityDropPoint6 - s16,humanityDropPoint7 - humanityDropPoint7 - s16,humanityDropPoint8 - humanityDropPoint8 - s16,humanityDropPoint9 - humanityDropPoint9 - s16,humanityDropPoint10 - humanityDropPoint10 - s16,subBonusSoul_single - subBonusSoul_single - s32,subbonusSoul_multi - subbonusSoul_multi - s32,pad1 - pad1 - dummy8
+0,,10000,10000,-1,0,0,0,0,0,0,0,0,0,0,0,10000,-
+1,,10000,10000,-1,0,0,0,0,0,0,0,0,0,0,0,10000,-
+1000800,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+1000900,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+1100800,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+1100900,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+1110801,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+1110850,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+1110900,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+1110920,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+1120800,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+1120830,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+1120860,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+1500800,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+1700800,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+1700850,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000800,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+2500800,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+2500840,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-
+2500850,,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-

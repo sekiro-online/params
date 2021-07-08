@@ -1,0 +1,6 @@
+#LoadBalancerParam=LOAD_BALANCER_PARAM_ST
+ID,Name,Unk1 - Unk1 - f32,Unk2 - Unk2 - f32,Unk3 - Unk3 - s32,Unk4 - Unk4 - s32,Unk5 - Unk5 - s32,Unk6 - Unk6 - s32,LoadBalancerVal0 - LoadBalancerVal0 - u8,LoadBalancerVal1 - LoadBalancerVal1 - u8,LoadBalancerVal2 - LoadBalancerVal2 - u8,LoadBalancerVal3 - LoadBalancerVal3 - u8,LoadBalancerVal4 - LoadBalancerVal4 - u8,LoadBalancerVal5 - LoadBalancerVal5 - u8,LoadBalancerVal6 - LoadBalancerVal6 - u8,LoadBalancerVal7 - LoadBalancerVal7 - u8,LoadBalancerVal8 - LoadBalancerVal8 - u8,LoadBalancerVal9 - LoadBalancerVal9 - u8,LoadBalancerVal10 - LoadBalancerVal10 - u8,LoadBalancerVal11 - LoadBalancerVal11 - u8,LoadBalancerVal12 - LoadBalancerVal12 - u8,LoadBalancerVal13 - LoadBalancerVal13 - u8,LoadBalancerVal14 - LoadBalancerVal14 - u8,LoadBalancerVal15 - LoadBalancerVal15 - u8,LoadBalancerVal16 - LoadBalancerVal16 - u8,LoadBalancerVal17 - LoadBalancerVal17 - u8,pad1 - pad1 - dummy8
+0,,23,27,5,20,30,10,15,14,16,21,21,11,17,12,13,10,4,1,1,16,6,17,2,3,-
+1,,23,27,5,20,30,10,15,14,16,21,21,11,17,12,13,10,4,1,1,16,6,17,2,3,-
+2,,23,27,5,20,30,10,15,14,16,21,21,11,17,12,13,10,4,1,1,16,6,17,2,3,-
+3,,23,27,5,20,30,10,15,14,16,21,21,11,17,12,13,10,4,1,1,16,6,17,2,3,-

@@ -1,0 +1,7 @@
+#UpperArmParam=UPPER_ARM_PARAM_ST
+ID,Name,ArmZ0 - ArmZ0 - f32,ArmXY0 - ArmXY0 - f32,ArmZ1 - ArmZ1 - f32,ArmXY1 - ArmXY1 - f32,ArmZ2 - ArmZ2 - f32,ArmXY2 - ArmXY2 - f32,ArmZ3 - ArmZ3 - f32,ArmXY3 - ArmXY3 - f32,ArmZ4 - ArmZ4 - f32,ArmXY4 - ArmXY4 - f32,ArmZ5 - ArmZ5 - f32,ArmXY5 - ArmXY5 - f32,ArmZ6 - ArmZ6 - f32,ArmXY6 - ArmXY6 - f32,ArmZ7 - ArmZ7 - f32,ArmXY7 - ArmXY7 - f32,ArmZ8 - ArmZ8 - f32,ArmXY8 - ArmXY8 - f32,ArmZ9 - ArmZ9 - f32,ArmXY9 - ArmXY9 - f32,pad1 - pad1 - dummy8
+0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+1,,8,5,10,0,10,5,0,25,0,0,0,0,0,20,0,30,10,25,0,25,-
+2,,15,10,15,0,15,0,0,20,0,0,0,5,0,30,0,30,10,25,0,25,-
+3,,5,0,10,0,10,5,0,20,0,0,0,0,0,20,0,15,10,15,0,15,-

@@ -1,0 +1,16 @@
+#MultiHPEstusFlaskBonusParam=MULTI_ESTUS_FLASK_BONUS_PARAM_ST
+ID,Name,estusFlaskRestoreCount0 - estusFlaskRestoreCount0 - u8,estusFlaskRestoreCount1 - estusFlaskRestoreCount1 - u8,estusFlaskRestoreCount2 - estusFlaskRestoreCount2 - u8,estusFlaskRestoreCount3 - estusFlaskRestoreCount3 - u8,estusFlaskRestoreCount4 - estusFlaskRestoreCount4 - u8,estusFlaskRestoreCount5 - estusFlaskRestoreCount5 - u8,estusFlaskRestoreCount6 - estusFlaskRestoreCount6 - u8,estusFlaskRestoreCount7 - estusFlaskRestoreCount7 - u8,estusFlaskRestoreCount8 - estusFlaskRestoreCount8 - u8,estusFlaskRestoreCount9 - estusFlaskRestoreCount9 - u8,estusFlaskRestoreCount10 - estusFlaskRestoreCount10 - u8,estusFlaskRestoreCount11 - estusFlaskRestoreCount11 - u8,estusFlaskRestoreCount12 - estusFlaskRestoreCount12 - u8,estusFlaskRestoreCount13 - estusFlaskRestoreCount13 - u8,estusFlaskRestoreCount14 - estusFlaskRestoreCount14 - u8,estusFlaskRestoreCount15 - estusFlaskRestoreCount15 - u8,estusFlaskRestoreCount16 - estusFlaskRestoreCount16 - u8,estusFlaskRestoreCount17 - estusFlaskRestoreCount17 - u8,estusFlaskRestoreCount18 - estusFlaskRestoreCount18 - u8,estusFlaskRestoreCount19 - estusFlaskRestoreCount19 - u8
+0,,0,0,0,0,0,0,0,2,2,2,0,0,2,2,0,0,0,0,0,0
+1000,,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0
+1100,,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0
+1200,,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0
+2000,,0,1,1,1,1,1,1,1,1,1,2,2,1,1,0,0,0,0,0,0
+2100,,0,1,1,1,1,1,1,1,1,1,2,2,1,1,0,0,0,0,0,0
+2200,,0,1,1,1,1,1,1,1,1,1,2,2,1,1,0,0,0,0,0,0
+3000,,0,1,1,1,1,1,1,1,1,1,2,2,1,1,0,0,0,0,0,0
+3100,,0,1,1,1,1,1,1,1,1,1,2,2,1,1,0,0,0,0,0,0
+3200,,0,1,1,1,1,1,1,1,1,1,2,2,1,1,0,0,0,0,0,0
+4000,,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0
+4100,,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0
+5000,,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0
+5100,,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0

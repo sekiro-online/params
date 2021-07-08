@@ -1,0 +1,3 @@
+#EnemyCommonParam=ENEMY_COMMOM_PARAM_ST
+ID,Name,Enemy Targeting Value - Enemy Targeting Value - f32,Fall Height Value - Fall Height Value - f32,pad1 - pad1 - dummy8
+0,,5,10,-

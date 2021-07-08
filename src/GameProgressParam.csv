@@ -1,0 +1,15 @@
+#GameProgressParam=GAME_PROGRESS_PARAM_ST
+ID,Name,EventFlagId - EventFlagId - s32,ProgressId - ProgressId - u8,pad1 - pad1 - dummy8
+0,,6100,10,-
+1,,6101,10,-
+2,,6102,10,-
+3,,6103,10,-
+4,,6104,5,-
+5,,6105,5,-
+6,,6106,5,-
+7,,6107,10,-
+8,,6108,5,-
+9,,6109,10,-
+10,,6110,5,-
+11,,6111,5,-
+12,,6112,100,-

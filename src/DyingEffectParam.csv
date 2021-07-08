@@ -1,0 +1,3 @@
+#DyingEffectParam=DYING_EFFECT_PARAM_ST
+ID,Name,DyingEffectInit0 - DyingEffectInit0 - f32,DyingEffectInit1 - DyingEffectInit1 - f32,Unk - Unk - f32,DyingEffect_Death - DyingEffect_Death - f32,DyingEffect_Revive - DyingEffect_Revive - f32,pad - pad - dummy8
+0,,0.1,1,1,0.1,0.3,-

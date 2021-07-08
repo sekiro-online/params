@@ -1,0 +1,7 @@
+#WeaponGenParam=WEAPON_GEN_PARAM_ST
+ID,Name,wepParamId - wepParamId - s32,gemSlotType_0 - gemSlotType_0 - s32,gemGenId0 - gemGenId0 - s32,gemSlotType_1 - gemSlotType_1 - s32,gemGenId1 - gemGenId1 - s32,gemSlotType_2 - gemSlotType_2 - s32,gemGenId2 - gemGenId2 - s32,gemSlotType_3 - gemSlotType_3 - s32,gemGenId3 - gemGenId3 - s32,gemSlotType_4 - gemSlotType_4 - s32,gemGenId4 - gemGenId4 - s32
+0,,0,-2147483648,-1,-2147483648,-1,-2147483648,-1,-2147483648,-1,-2147483648,-1
+90000,,90000,-2147483296,-1,-2147483296,-1,-2147483296,-1,-2147483296,-1,-2147483296,-1
+91000,,91000,-2147483296,-1,-2147483296,-1,-2147483296,-1,-2147483296,-1,-2147483296,-1
+201000,,201000,1,1,-2147483296,-1,-2147483296,-1,-2147483296,-1,-2147483296,-1
+1450000,,1450000,63,1,2,2,-2147483296,-1,-2147483296,-1,-2147483296,-1

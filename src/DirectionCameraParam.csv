@@ -1,0 +1,8 @@
+#DirectionCameraParam=DIRECTION_CAMERA_PARAM_ST
+ID,Name,RumbleState[ON_OFF] - RumbleState[ON_OFF] - u8,pad1 - pad1 - dummy8
+80,,1,-
+81,,1,-
+82,,1,-
+83,,1,-
+90,,1,-
+92,,1,-
